@@ -1,0 +1,105 @@
+# Shelter Animals Count - Data Use Policy & Agreement Effective February 6, 2023
+
+## Data Use Policy
+
+Shelter Animals Count (“SAC”) collects and shares information and data on Shelters & Rescues, Intake/Outcome Data, Community Services Data and other information relating to the operation of animal shelters for the benefit of animals and communities.  For purposes of this Data Use Agreement, all of the information and data collected and made available by SAC is referred to as “Data” and the assembled Data in any format maintained by SAC is referred to as the “Database.”    
+
+##Background  
+
+In the spirit of the SAC mission statement, “to create, share and steward the national database of sheltered animals that provides facts and enables insights to save lives”, the SAC Board of Directors has established a policy and agreement to ensure we can both share Data and be good stewards of the Data and its use. 
+
+It is the responsibility of those requesting access to Data to take the time to fully understand the limitations of the dataset (i.e. the Data may be incomplete for a particular period of time, community-related Data may not represent the bulk of animal intakes in that community, etc.). 
+
+Data alone is not a complete representation of the work of an organization.  To truly understand the impact and value of an organization you must seek out context for the numbers and explore the work and impact of an organization beyond the numbers. 
+
+Individuals, institutions, or others seeking to utilize the Database by downloading Data from the SAC website must adhere to this Data Use Agreement. 
+
+ 
+
+##Data Use  
+
+This Data Use Agreement (“Agreement”) is between you, the requestor or user of the Data (“Recipient”), and SAC.  Recipient agrees to comply with this Agreement for each requested Dataset Export.  
+
+If you are requesting Data on behalf of an entity or organization, this Agreement applies to the entire organization, and “Recipient” means you and that organization.  You represent and agree that you have the authority, and will ensure that, all employees and contractors of your entity or organization understand and will abide by this Agreement.  
+
+After the Effective Date of this Agreement, Recipient’s use or Publication (as defined below) of Data that was received by Recipient prior to the Effective Date shall become subject to the terms of this Agreement.  
+
+ 
+
+##Term and Termination.  This Agreement will remain in full force and effect until terminated as set forth herein.  This Agreement will terminate (1) automatically without notice from SAC if Recipient fails to comply with the provisions of this Agreement, or (2) immediately upon written notice by either Recipient or SAC to the other.  Recipient agrees that upon termination of this Agreement, it shall return or destroy all copies of any Data, in any and all media, in Recipient’s custody or control; provided that Recipient may retain a copy of the Data on its system-wide back-up storage media, on the condition that any such retained copies are not generally accessible and remain subject to the terms of this Agreement.  Recipient shall certify as to its return or destruction of Data upon request by SAC.   
+
+SAC reserves the right to limit or deny access to the Data, Database, or downloads and to require return or destruction of Data by Recipient, with or without stated cause, at any time. 
+
+ 
+
+##Use of Data.  SAC hereby grants to the Recipient a non-exclusive, revocable, limited, non-transferable license to use the Data solely for (1) research, reporting, scholarly, or academic purposes, or (2) Recipient’s internal, non-commercial use.  Recipient shall not disclose any Data except as permitted by this Agreement and subject to the following requirements: 
+
+-Data that is included in scholarly, research, or academic publications, or in any news reporting, websites, email, social media, written communication, or video (collectively, “Publication”) must not identify any person, individual animal, organization, or shelter. 
+
+-Data that is included in any Publication must include only aggregated or summarized Data and shall not include the complete or original Data set provided by SAC. 
+
+-No Publication may disparage or otherwise portray in a negative light SAC or any contributor to the Data.  SAC has adopted a purposefully positive view of the efforts and intentions of individuals and agencies in animal welfare and control.  As a result, Recipient must, in the context of the use of the Data, treat the member organizations of the Database with respect, regardless of Recipient’s personal opinions.  
+
+-Each Publication shall include an acknowledgement of “Shelter Animals Count” as the source of the Data and include the following legend: 
+
+“The information contained herein was derived from data supplied by Shelter Animals Count. Shelter Animals Count specifically disclaims all responsibility for any analysis, interpretations, conclusions and opinions contained in or derived from the information presented.” 
+
+-Recipient shall promptly notify SAC of any Publication in news reporting, website, social media, promotional email, or video form and provide the appropriate citation or location of such Publication. 
+
+-Recipient must promptly report to SAC any use or disclosure of the Data that is not permitted by this Agreement of which it becomes aware. 
+
+ 
+
+##Prohibited Uses.  Except as set forth herein, Recipient may not reproduce, lease, loan, distribute, or sublicense, disclose, or otherwise transfer any Data, in whole or in part, to any other person or entity.  In addition, Recipient shall not:  
+
+-Use Data to rate, rank, score, or compare a shelter, organization, or Data contributor to any other shelter, organization, or Data contributor  
+
+-Use Data as justification for criticizing, making negative statements about, or vilifying the work of any individual, organization, or shelter  
+
+-Use the Data to create any derived product for resale, lease, or license 
+
+-Use the Data for any commercial purpose without prior written consent from SAC 
+
+-Use the Data for any illegal purpose 
+
+-Introduce into the Data or the SAC website viruses, worms, or other material that is malicious or technologically harmful 
+
+-Upload illegal, infringing, or defamatory content.  
+
+Recipient shall take all reasonable measures to prevent the disclosure of the Data except as set forth in this Agreement or as may be required by law.  If Recipient receives a request pursuant to court order or governmental proceeding to disclose Data, then, prior to any such disclosure, Recipient will provide SAC with reasonable prior notice and will use reasonable efforts assist SAC in obtaining a protective order or confidential treatment of the Data.   
+
+SAC has taken measures to ensure that the Data is devoid of information that could be used to identify individual animals, persons, or organizations.  If Recipient discovers any individual-identifying or organization-identifying information in the Data, Recipient shall immediately notify SAC and delete such identifying information. 
+
+##SAC Representations and Warranties. SAC REPRESENTS THAT IT HAS ALL RIGHTS REQUIRED TO MAKE AVAILABLE AND DISTRIBUTE THE DATA ON THE TERMS SET FORTH IN THIS AGREEMENT. EXCEPT FOR SUCH REPRESENTATION, THE DATA IS PROVIDED “AS IS” AND “AS AVAILABLE” AND WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE, AND ANY WARRANTIES IMPLIED BY ANY COURSE OF PERFORMANCE OR USAGE OF TRADE, ALL OF WHICH ARE EXPRESSLY DISCLAIMED.  WITHOUT LIMITING THE FOREGOING, SAC DOES NOT WARRANT THAT: (A) THE DATA IS ACCURATE, COMPLETE, RELIABLE, OR CORRECT; (B) THE DATA WILL BE AVAILABLE AT ANY PARTICULAR TIME OR LOCATION; (C) ANY DEFECTS OR ERRORS WILL BE CORRECTED; (D) THE DATA IS FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS; OR (E) THE RESULTS OF USING THE DATA WILL MEET RECIPIENT’S REQUIREMENTS. RECIPIENT’S USE OF THE DATA IS SOLELY AT RECIPIENT’S OWN RISK. 
+
+##Recipient’s Representations. Recipient represents and warrants that it is in compliance with all applicable local, state, tribal, and federal laws, regulations and other requirements to which Recipient is subject.  The individual signing this Agreement as, or on behalf of, Recipient is duly authorized to enter into this Agreement.  This Agreement is binding and enforceable on Recipient in accordance with its terms.   
+
+##Limitation of Liability.  IN NO EVENT SHALL SAC BE LIABLE TO RECIPIENT OR ANY THIRD PARTY, UNDER CONTRACT, TORT, STRICT LIABILITY, NEGLIGENCE OR ANY OTHER LEGAL THEORY WITH RESPECT TO THE DATA FOR ANY (A) DIRECT DAMAGES, OR (B) LOST PROFITS OR SPECIAL, INDIRECT, INCIDENTAL, PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER, INCLUDING WITHOUT LIMITATION DAMAGES FOR THE INABILITY TO USE EQUIPMENT OR ACCESS DATA, LOSS OF BUSINESS, LOSS OF REVENUE OR PROFITS, BUSINESS INTERRUPTIONS, LOSS OF INFORMATION OR DATA, OR OTHER FINANCIAL LOSS, ARISING OUT OF THE USE OF, OR INABILITY TO USE, THE DATA, EVEN IF SAC HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+##Indemnification.  Recipient shall defend, indemnify, and hold harmless SAC, including its respective affiliates, directors, officers, managers, employees, representatives, agents, assigns, and successors, for, from, and against all costs, claims, losses, liabilities, property damage, bodily injury or death, or intellectual property infringement (including reasonable attorneys’ fees and expenses), incident to or arising out of Recipient’s: (a) breach of this Agreement; (b) infringement of any third-party intellectual property right; (c) violation of applicable law; and (d) use of the Data and any Publication. 
+
+##Equitable Relief. Recipient recognizes and acknowledges that a breach of this Agreement may cause SAC irreparable damage which cannot be readily remedied in monetary damages in an action at law. In the event of any default or breach by Recipient of this Agreement, SAC shall be entitled to immediate injunctive relief and/or specific performance as a remedy, without the necessity of posting a bond or proving the inadequacy of money damages.  Such remedy shall be in addition to any other remedies available. 
+
+ 
+
+##Miscellaneous.   
+
+(a) SAC may assign, transfer, or delegate any of its rights and obligations hereunder at any time.  Recipient shall not transfer, assign, or sublicense, in whole or in part, any of its rights or obligations under this Agreement without the prior written consent of SAC. 
+
+(b) No agency, partnership, joint venture, or employment relationship is created as a result of the Agreement and neither party has any authority of any kind to bind the other in any respect outside of the terms described within this Agreement.   
+
+(c)  This Agreement represents the entire agreement between Recipient and SAC with respect to the Data and the Database and supersedes all prior or contemporaneous communications and proposals (whether oral, written or electronic).  If any provision of this Agreement is found to be unenforceable or invalid, that provision will be limited or eliminated to the minimum extent necessary so that the Agreement will otherwise remain in full force and effect and enforceable, and the invalid or unenforceable provision shall be modified to the extent necessary to allow for enforceability and to give effect to the original intent of the parties to the extent possible.  The failure of either party to insist upon the performance of any term or provision of this Agreement or to exercise any right herein conferred shall not be construed as a waiver or relinquishment to any extent of such party’s right to assert or rely upon any such term or right on any future occasion.  This Agreement shall not be construed for or against any party on the basis of which party drafted this Agreement, and each party acknowledges that it has had the opportunity to review this Agreement with its respective legal counsel to the party’s satisfaction. 
+
+(d) All provisions that logically ought to survive termination shall survive of this Agreement, including without limitation provisions relating to obligations of non-disclosure, limitation on liability, indemnity provisions, and choice of law and dispute resolution.
+
+(e) SAC may modify the terms of this Agreement at any time.  SAC shall make reasonable efforts to inform Recipient of the modifications.  Continued use of Data subsequent to such modification shall be subject to the modified terms.  
+
+(f) Notices shall be deemed served when received by addressee or, if delivery fails by reason of some fault or action of the addressee, when tendered for delivery. All notices shall be in writing, reference this Agreement, and be delivered by electronic mail, hand, prepaid courier, or registered or certified mail (postage prepaid) to the address provided at the time the parties enter into this Agreement. 
+
+(g) This Agreement shall be governed by and construed in accordance with the laws of the United States of America and the District of Columbia, excluding conflict of law provisions. Recipient expressly agrees to jurisdiction for any claim or action arising out of or relating to this Agreement in the state or federal courts located in the District of Columbia, and further agrees and submits to the exercise of personal jurisdiction of those courts for the purpose of litigating any such claim or action.  SAC may seek injunctive or equitable relief in any court of competent jurisdiction.  In any action or proceeding to enforce rights or obligations under the Agreement, the prevailing party will be entitled to recover costs and attorneys’ fees.  
+
+(h) Recipient shall not use the name or trademarks of SAC in any advertising, publicity, endorsement, promotion, or other publicly available document without SAC’s prior written consent, except for inclusion of the required legend as described above under “Use of Data.”  
+
+ 
+
+BY CLICKING “I AGREE TO THE DATA USE AGREEMENT ABOVE” YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND BY THESE TERMS.  THESE TERMS ARE A LEGAL CONTRACT THAT WILL BIND BOTH OF US AS SOON AS YOU CLICK THE ASSENT BUTTON.  IF YOU REJECT THE PROPOSED TERMS, YOU WILL BE DENIED ACCESS TO THE DATA THAT YOU ARE REQUESTING. 
