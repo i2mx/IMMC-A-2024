@@ -51,9 +51,8 @@ def get_space_index(population_density, people_in_household, floor_area, outside
     human_space = furniture_percentage * floor_area + 10*math.log10(outside_area+1) - space_per_person*people_in_household - space_need_already - space_need_cat
     ratio = human_space / space_need_cat
     
-    space_median = -0.00559007*population_density + 26.1558
-    space_steepness = 0.0000275031*population_density + 0.0702201
-    
+    space_median =   (27.6451/population_density) + 36.2122
+    space_steepness = 0.115
     return 1/(1+math.exp(-space_steepness*(ratio-space_median)))
     
 
@@ -68,7 +67,7 @@ def get_HPFI(population_density, cost_of_living, household_income, people_in_hou
     
     # print(income_index, time_index, space_index)
     
-    return income_index ** (1/3) * time_index ** (1/3) * space_index ** (1/3)
+    return income_index ** (1/2) * time_index ** (1/4) * space_index ** (1/4)
  
 
 if __name__ == '__main__':
