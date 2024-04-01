@@ -1,7 +1,5 @@
 import math
-import numpy as np
 from scipy.stats import norm
-from functools import reduce
 
 
 # --- CONSTANTS ---
