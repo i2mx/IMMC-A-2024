@@ -73,5 +73,6 @@ def get_HPFI(population_density, cost_of_living, household_income, people_in_hou
     return income_index ** (1/3) * time_index ** (1/3) * space_index ** (1/3)
  
 
-print(get_HPFI(4200, 89000, 120000, 2, 5, 80, 5))
+if __name__ == '__main__':
+    print(get_HPFI(4200, 89000, 120000, 2, 5, 80, 5))
 
