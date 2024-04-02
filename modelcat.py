@@ -11,7 +11,7 @@ amount_owned_fish = 0
 
 free_time_std = 2
 furniture_percentage = 0.6
-space_per_person = 20
+space_per_person = 10
 
 space_need_cat = 2
 space_need_bird = 1
@@ -50,11 +50,31 @@ def get_time_index(owner_freetime):
 def get_space_index(population_density, people_in_household, floor_area, outside_area):
     human_space = furniture_percentage * floor_area + 10*math.log10(outside_area+1) - space_per_person*people_in_household - space_need_already - space_need_cat
     ratio = human_space / space_need_cat
-    
+
+    population_density = min(1000, population_density)
+    # people_in_household = 1
+    # outside_area = 
+
+    # population_density = min(population_density, 1)
+
+    # space_median = -0.00559007*population_density + 26.1558
+    # space_steepness = 0.0000275031*population_density + 0.0702201
+
+    space_median = 35
     space_median =   (27.6451/population_density) + 36.2122
     space_steepness = 0.115
     return 1/(1+math.exp(-space_steepness*(ratio-space_median)))
     
+import matplotlib.pyplot as plt
+import numpy as np
+
+
+# X = np.arange(-100,300)
+# Y = np.array([get_space_index(3200, 2, x, 20) for x in X])
+
+# plt.plot(X,Y)
+# plt.show()
+
 
 
 
